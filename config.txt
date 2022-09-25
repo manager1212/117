@@ -1,0 +1,23 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx1681e5484f75bedb",
+# 公众号appSecret
+"app_secret": "2752cbd315ec213b0430ff19f66d5356",
+# 模板消息id
+"template_id": "LWd1jLs9X3WrYt6vntACfR8zlIlDudBu5A4QbcFi-cU",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oUimw6iYuANLbelr_ZKO0FGq3zqw"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "45e7dc40edaf4724be8e77e98cffab96",
+# 天行数据apikey
+"tian_api": "c282cadedf989b936b804e46df565531",
+# 上海市
+"region": "闵行区",
+# 生日
+"birthday1": {"name": "笑笑", "birthday": "1999-05-27"},
+# 在一起的日子，格式同上
+"love_date": "2022-06-01",
+}
